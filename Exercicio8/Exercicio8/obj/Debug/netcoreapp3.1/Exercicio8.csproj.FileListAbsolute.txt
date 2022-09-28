@@ -1,0 +1,14 @@
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.exe
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.deps.json
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.runtimeconfig.json
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.runtimeconfig.dev.json
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.dll
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\bin\Debug\netcoreapp3.1\Exercicio8.pdb
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.csproj.AssemblyReference.cache
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.AssemblyInfoInputs.cache
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.AssemblyInfo.cs
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.csproj.CoreCompileInputs.cache
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.dll
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.pdb
+D:\Praticando\Exercicios\Exercicio8\Exercicio8\obj\Debug\netcoreapp3.1\Exercicio8.genruntimeconfig.cache
