@@ -1,0 +1,14 @@
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.exe
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.deps.json
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.runtimeconfig.json
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.runtimeconfig.dev.json
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.dll
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\bin\Debug\netcoreapp3.1\Exercicio10.pdb
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.csproj.AssemblyReference.cache
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.AssemblyInfoInputs.cache
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.AssemblyInfo.cs
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.csproj.CoreCompileInputs.cache
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.dll
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.pdb
+D:\Praticando\Exercicios\Exercicio10\Exercicio10\obj\Debug\netcoreapp3.1\Exercicio10.genruntimeconfig.cache
