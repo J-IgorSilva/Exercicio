@@ -1,0 +1,14 @@
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.exe
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.deps.json
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.runtimeconfig.json
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.runtimeconfig.dev.json
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.dll
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\bin\Debug\netcoreapp3.1\Exercicio15.pdb
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.csproj.AssemblyReference.cache
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.AssemblyInfoInputs.cache
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.AssemblyInfo.cs
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.csproj.CoreCompileInputs.cache
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.dll
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.pdb
+D:\Praticando\Exercicios\Exercicio15\Exercicio15\obj\Debug\netcoreapp3.1\Exercicio15.genruntimeconfig.cache
