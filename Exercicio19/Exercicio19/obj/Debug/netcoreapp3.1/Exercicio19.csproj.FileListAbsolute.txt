@@ -1,0 +1,13 @@
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.exe
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.deps.json
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.runtimeconfig.json
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.runtimeconfig.dev.json
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.dll
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\bin\Debug\netcoreapp3.1\Exercicio19.pdb
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.GeneratedMSBuildEditorConfig.editorconfig
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.AssemblyInfoInputs.cache
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.AssemblyInfo.cs
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.csproj.CoreCompileInputs.cache
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.dll
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.pdb
+D:\Praticando\Exercicios\Exercicio19\Exercicio19\obj\Debug\netcoreapp3.1\Exercicio19.genruntimeconfig.cache
